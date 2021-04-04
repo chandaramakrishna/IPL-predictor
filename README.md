@@ -1,2 +1,2 @@
 # IPL-predictor
-Match result
+Match results
